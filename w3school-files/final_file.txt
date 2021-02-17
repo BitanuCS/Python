@@ -1,0 +1,3 @@
+Hey! This is a readable file and you can write on this.
+This is another text file.
+Ohh! You can also append this file.ll ijio jju.
